@@ -1,0 +1,16 @@
+SpeechRecognition
+pyaudio
+rich
+pynput
+google-generativeai
+edge-tts
+pygame
+ollama
+fastapi
+uvicorn
+spotipy
+pywhatkit
+
+groq
+python-dotenv
+Pillow
