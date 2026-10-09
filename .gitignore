@@ -1,0 +1,14 @@
+.env
+.env.*
+!.env.example
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.envrc
+
+PyWhatKit_DB.txt
+brain_memory.json
+user_data/
+
